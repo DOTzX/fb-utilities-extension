@@ -1,0 +1,57 @@
+{
+	"error": false,
+	"data": {
+		"_app_version": "0.2.0",
+		"_rules_version": 1,
+		"filterArray": {
+			"hideNonFollowed": [
+				"Follow",
+				"Ikuti"
+			],
+			"hideNonJoined": [
+				"Join",
+				"Gabung"
+			],
+			"hideSponsored": [
+				"Sponsored",
+				"Bersponsor"
+			],
+			"hideReelsBetween": [
+				"Reels",
+				"Reel"
+			]
+		},
+		"selectorArray": {
+			"name": {
+				"target": [
+					"div:nth-of-type(13) > div > div > div:nth-of-type(2) > div > div:nth-of-type(2) > div > div:nth-of-type(1) > span > div > h4 > span > span:nth-of-type(1) > span > a > b > span",
+					"div:nth-of-type(13) > div > div > div:nth-of-type(2) > div > div:nth-of-type(2) > div > div:nth-of-type(1) > span > div > h4 > span > span:nth-of-type(1) > span > a > strong > span",
+					"div:nth-of-type(13) > div > div > div:nth-of-type(2) > div > div:nth-of-type(2) > div > div:nth-of-type(1) > span > div > h4 > span > strong > span > span > span > span > a",
+					"div:nth-of-type(13) > div > div > div:nth-of-type(2) > div > div:nth-of-type(2) > div > div:nth-of-type(1) > span > div > h4 > div > span:nth-of-type(1) > span > a > span",
+					"div:nth-of-type(13) > div > div > div:nth-of-type(2) > div > div:nth-of-type(2) > div > div:nth-of-type(1) > span > div > h3 > span > span > span > a > strong > span"
+				]
+			},
+			"hideNonFollowed": {
+				"target": [
+					"div:nth-of-type(13) > div > div > div:nth-of-type(2) > div > div:nth-of-type(2) > div > div:nth-of-type(1) > span > div > h4 > span > span:nth-of-type(1) > span:nth-of-type(2) > div > span",
+					"div:nth-of-type(13) > div > div > div:nth-of-type(2) > div > div:nth-of-type(2) > div > div:nth-of-type(1) > span > div > h4 > span > span:nth-of-type(2) > span:nth-of-type(2) > div > span",
+					"div:nth-of-type(13) > div > div > div:nth-of-type(2) > div > div:nth-of-type(2) > div > div:nth-of-type(1) > span > div > h4 > span > span:nth-of-type(3) > span:nth-of-type(2) > div > span"
+				]
+			},
+			"hideNonJoined": {
+				"target": [
+					"div:nth-of-type(13) > div > div > div:nth-of-type(2) > div > div:nth-of-type(2) > div > div:nth-of-type(1) > span > div > h4 > div > span:nth-of-type(2) > span:nth-of-type(2) > div > span"
+				]
+			},
+			"hideReelsBetween": {
+				"target": [
+					"div:nth-of-type(13) > div:nth-of-type(1) > div > div:nth-of-type(1) > div > div > div:nth-of-type(1) > div > div > span"
+				]
+			},
+			"hideSponsored": {
+				"target": "div:nth-of-type(13) > div > div > div:nth-of-type(2) > div > div:nth-of-type(2) > div > div:nth-of-type(2) > span > div > span:nth-of-type(1) > span > a > span > span > span",
+				"svg": "svg > use"
+			}
+		}
+	}
+}
