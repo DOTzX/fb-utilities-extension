@@ -22,6 +22,7 @@ Support me:
   - Filter by group posts frequency
   - Filter by friends count in the group
   - Searching with text or regex, case-insensitive
+- Post search filtering
 
 ## Requirements
 
