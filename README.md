@@ -1,6 +1,6 @@
 # fb-utilities-extension
 
-![image](https://github.com/user-attachments/assets/f6fd7466-c394-4bb7-bc2b-6b6df4113fb2)
+<img width="342" height="361" alt="image" src="https://github.com/user-attachments/assets/99d429c1-7dbf-4e36-8f7b-ee9579a62f60" />
 
 Support me:
 - [https://saweria.co/dotx](https://saweria.co/dotx)
@@ -15,13 +15,6 @@ Support me:
   - Hide non-joined
   - Hide reels (top at the feed)
   - Hide reels (in-between post)
-- Group search filtering
-  - Filter by group name
-  - Filter by group privacy
-  - Filter by group members count
-  - Filter by group posts frequency
-  - Filter by friends count in the group
-  - Searching with text or regex, case-insensitive
 - Post search filtering
 
 ## Requirements
