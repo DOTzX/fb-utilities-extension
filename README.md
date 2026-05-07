@@ -11,10 +11,18 @@ Support me:
 - Home filtering
   - Counter for filtered post
   - Hide sponsored (in-between post)
+  - Hide suggested
   - Hide non-followed
   - Hide non-joined
   - Hide reels (top at the feed)
   - Hide reels (in-between post)
+- Group search filtering
+  - Filter by group name
+  - Filter by group public or private
+  - Filter by group members count
+  - Filter by group posts frequency
+  - Filter by friends count in the group
+  - Searching with text or regex, case-insensitive
 - Post search filtering
 
 ## Requirements
@@ -79,7 +87,7 @@ _Please do note_, this is temporary — the extension will be removed when Firef
 
 Only work at **Home** and **Feeds** page, excluding other pages.
 
-If you don't want to use _Run directly_, how to use:
+How to use if you don't want _run directly_ (indicated by "Filter: ON" on the extension):
 - Right click on the **Home** or **Feeds** page
 - Click **Filter Feeds**.
 
@@ -90,6 +98,14 @@ How to use:
 - Reload/refresh page
 - Right click on the search page
 - Click **Filter Groups**.
+
+### Post search filtering
+
+How to use:
+- On extension
+- Click **Tools**
+- Fill what you want to search
+- Click **Search**
 
 ## Notification upon the release of a new update
 
