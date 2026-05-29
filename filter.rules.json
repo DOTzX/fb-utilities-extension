@@ -1,11 +1,12 @@
 {
 	"error": false,
 	"data": {
-		"_app_version": "0.4.1",
-		"_rules_version": 1,
+		"_app_version": "0.4.2",
+		"_rules_version": 2,
 		"filterArray": {
 			"hideSugested": [
-				"Suggested for you"
+				"Suggested for you",
+				"Disarankan untuk Anda"
 			],
 			"hideNonFollowed": [
 				"Follow",
@@ -26,13 +27,7 @@
 		},
 		"selectorArray": {
 			"name": {
-				"target": [
-					"div:nth-of-type(13) > div > div > div:nth-of-type(2) > div > div:nth-of-type(2) > div > div:nth-of-type(1) > span > div > h4 > span > span:nth-of-type(1) > span > a > b > span",
-					"div:nth-of-type(13) > div > div > div:nth-of-type(2) > div > div:nth-of-type(2) > div > div:nth-of-type(1) > span > div > h4 > span > span:nth-of-type(1) > span > a > strong > span",
-					"div:nth-of-type(13) > div > div > div:nth-of-type(2) > div > div:nth-of-type(2) > div > div:nth-of-type(1) > span > div > h4 > span > strong > span > span > span > span > a",
-					"div:nth-of-type(13) > div > div > div:nth-of-type(2) > div > div:nth-of-type(2) > div > div:nth-of-type(1) > span > div > h4 > div > span:nth-of-type(1) > span > a > span",
-					"div:nth-of-type(13) > div > div > div:nth-of-type(2) > div > div:nth-of-type(2) > div > div:nth-of-type(1) > span > div > h3 > span > span > span > a > strong > span"
-				]
+				"target": []
 			},
 			"hideSugested": {
 				"target": [
