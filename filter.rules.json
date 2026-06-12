@@ -2,7 +2,7 @@
 	"error": false,
 	"data": {
 		"_app_version": "0.4.2",
-		"_rules_version": 2,
+		"_rules_version": 3,
 		"filterArray": {
 			"hideSugested": [
 				"Suggested for you",
@@ -22,7 +22,9 @@
 			],
 			"hideReelsBetween": [
 				"Reels",
-				"Reel"
+				"Reel",
+				"Stories",
+				"Cerita"
 			]
 		},
 		"selectorArray": {
@@ -48,7 +50,8 @@
 			},
 			"hideReelsBetween": {
 				"target": [
-					"div:nth-of-type(13) > div:nth-of-type(1) > div > div:nth-of-type(1) > div > div > div:nth-of-type(1) > div > div > span"
+					"div:nth-of-type(13) > div:nth-of-type(1) > div > div:nth-of-type(1) > div > div > div:nth-of-type(1) > div > div > span",
+					"div:nth-of-type(13) > div:nth-of-type(1) > div > div:nth-of-type(1) > div > div > div:nth-of-type(1) > div > span"
 				]
 			},
 			"hideSponsored": {
