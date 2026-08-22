@@ -6,7 +6,7 @@ Support me:
 - [https://saweria.co/dotx](https://saweria.co/dotx)
 - [https://ko-fi.com/dotx_exe](https://ko-fi.com/dotx_exe)
 
-**Rules Last Updated**: 2026-08-03 04:09:15 UTC
+**Rules Last Updated**: 2026-08-22 07:51 UTC
 
 ## Features
 
