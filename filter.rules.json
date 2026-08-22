@@ -1,7 +1,7 @@
 {
 	"error": false,
 	"data": {
-		"_app_version": "0.4.2",
+		"_app_version": "0.4.3",
 		"_rules_version": 4,
 		"filterArray": {
 			"hideSugested": [
@@ -19,7 +19,10 @@
 			"hideSponsored": [
 				"Sponsored",
 				"S͏p͏o͏n͏s͏o͏r͏e͏d͏",
-				"Bersponsor"
+				"Bersponsor",
+				"Ad",
+				"Ads",
+				"Iklan"
 			],
 			"hideReelsBetween": [
 				"Reels",
@@ -61,7 +64,11 @@
 			},
 			"hideSponsored": {
 				"target": "div:nth-of-type(13) > div > div > div:nth-of-type(2) > div > div:nth-of-type(2) > div > div:nth-of-type(2) > span > div > span:nth-of-type(1) > span > a > span > span > span",
-				"svg": "svg > use"
+				"svg": "svg > use",
+				"target_2": [
+					"div:nth-of-type(13) > div > div > div:nth-of-type(2) > div > div:nth-of-type(2) > div > div:nth-of-type(2) > span > div > span:nth-of-type(1) > span > a > span > span > span",
+					"div:nth-of-type(13) > div > div > div:nth-of-type(2) > div > div:nth-of-type(2) > div > div:nth-of-type(2) > span > div > span:nth-of-type(1) > span > a > span > span"
+				]
 			}
 		}
 	}
