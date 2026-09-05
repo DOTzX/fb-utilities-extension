@@ -2,7 +2,7 @@
 	"error": false,
 	"data": {
 		"_app_version": "0.4.3",
-		"_rules_version": 4,
+		"_rules_version": 5,
 		"filterArray": {
 			"hideSugested": [
 				"Suggested for you",
@@ -41,7 +41,7 @@
 			},
 			"hideSugested": {
 				"target": [
-					"div > span > div > div > div > div > div > div > div > div > div > div > div > div > div:nth-of-type(13) > div > div > div:nth-of-type(2) > div > div:nth-of-type(2) > div > div:nth-of-type(2) > span > div > span:nth-of-type(1)"
+					"div:nth-of-type(13) > div > div > div:nth-of-type(2) > div > div:nth-of-type(2) > div > div:nth-of-type(2) > span > div > span:nth-of-type(1)"
 				]
 			},
 			"hideNonFollowed": {
